@@ -1,7 +1,7 @@
 ---
 title: Yang Yang
 role: Incoming PhD Student at Purdue University
-avatar_filename: avatar.jpg
+avatar_filename: MicrosoftTeams-image (6).png
 bio: ""
 interests:
   - Robotic Control
