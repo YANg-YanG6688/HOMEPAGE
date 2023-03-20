@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Manufacturing Engineering Intern
-    company: Tesla
+    company: tesla.png
     company_url: ''
     company_logo: tesla
     location: Austin, Texas
@@ -34,7 +34,7 @@ experience:
   - title: Course Producer
     company: University of Southern California
     company_url: ''
-    company_logo: usc
+    company_logo: usc.png
     location: Los Angeles
     date_start: '2022-10-01','2022-01-15'
     date_end: '2022-12-01','2022-05-01'
@@ -46,7 +46,7 @@ experience:
   - title: Teaching Assistant
     company: Shanghai Jiao Tong University
     company_url: ''
-    company_logo: sjtu
+    company_logo: sjtu.png
     location: Shanghai
     date_start: '2020-9-01'
     date_end: '2020-12-01'
