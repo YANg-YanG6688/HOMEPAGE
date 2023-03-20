@@ -36,12 +36,10 @@ experience:
     company_url: ''
     company_logo: usc.png
     location: Los Angeles
-    date_start: '2022-10-01','2022-01-15'
-    date_end: '2022-12-01','2022-05-01'
-    description: '[AME441a]Help students build their projects, manage orders and be an experienced presence in the lab.
-                  [AME341b](1) Co-running weekly lab session with fellow TAs and staff. 
-                           (2) Grading of reports/deliverables
-                           (3) Attending the weekly MechOp team meeting, which involves (a) the running of lab experiments (in preparation for lab on the subsequent week), and (b) discussions on grading criteria for the deliverables.'
+    date_start: '2022-10-01'
+    date_end: '2022-12-01'
+    description: '[AME441a]Help students build their projects, manage orders and be an experienced presence in the lab.'
+                  
 
   - title: Teaching Assistant
     company: Shanghai Jiao Tong University
